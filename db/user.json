@@ -1,0 +1,14 @@
+{
+  "id": 123456,
+  "name": "bot1",
+  "profile": {
+    "title": "shui",
+    "first_name": "",
+    "last_name": "ju",
+    "real_name": "ju",
+    "email": "abc@qq.com",
+    "test": {
+      "test1": "testValue"
+    }
+  }
+}
